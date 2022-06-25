@@ -1,0 +1,5 @@
+src\minecraft\net\optifine\util\LinkedListTest.java:85: error: lambda expressions are not supported in -source 1.6
+        linkedList.iterator().forEachRemaining(vboRangeNode -> {
+                                                            ^
+  (use -source 8 or higher to enable lambda expressions)
+1 error
